@@ -1,0 +1,4 @@
+export const ACTION_TYPES = {
+    PRE_STATE: "PRE_STATE",
+    POST_STATE: "POST_STATE"
+};
